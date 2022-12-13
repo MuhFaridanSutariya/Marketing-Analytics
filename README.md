@@ -6,7 +6,7 @@ Gambar 1. Illustrasi marketing
 
 ## Proyek overview
 
-Sebuah proyek yang dibuat untuk dapat menjawab pertanyaan bisnis yang diberikan kepada analisis data menggunakan teknik *data-driven solution*. *data-driven solution* ini mencakup beberapa bagian yaitu *data understanding*, *bisnis understanding*, *Exploratory Data Analysis*, *Statistical Analysis* dan data visualisasi. Dataset ini bersifat *open source* yang disediakan oleh seseorang pada platform kaggle.
+Sebuah proyek yang dibuat untuk dapat menjawab pertanyaan bisnis yang diberikan kepada analis data menggunakan teknik *data-driven solution*. *data-driven solution* ini mencakup beberapa bagian yaitu *data understanding*, *bisnis understanding*, *Exploratory Data Analysis*, *Statistical Analysis* dan data visualisasi. Dataset ini bersifat *open source* yang disediakan oleh seseorang pada platform kaggle.
 
 ## Teknologi yang digunakan
 
