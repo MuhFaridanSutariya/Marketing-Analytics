@@ -18,4 +18,4 @@ Sebuah proyek yang dibuat untuk dapat menjawab pertanyaan bisnis yang diberikan 
 - MeanSquareError sebagai metrik untuk menghitung loss dari LinearRegression
 
 ## PENTING
-Untuk mengetahui keseluruhan dari proyek analisis ini, dapat membuka file Notebook.ipynb[https://github.com/MuhFaridanSutariya/marketing-analytics/blob/master/Notebook.ipynb]
+Untuk mengetahui keseluruhan dari proyek analisis ini, dapat membuka file [Notebook.ipynb](https://github.com/MuhFaridanSutariya/marketing-analytics/blob/master/Notebook.ipynb)
